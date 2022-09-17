@@ -1,0 +1,11 @@
+Welcome to the JavaTM Platform
+Welcome to the JavaTM Standard Edition Runtime Environment. This provides complete runtime support for Java applications.
+
+The runtime environment includes the JavaTM Plug-in product which supports the Java environment inside web browsers.
+
+References
+See the Java Plug-in product documentation for more information on using the Java Plug-in product.
+
+See the Java Platform web site for more information on the Java Platform.
+
+Copyright (c) 2006, 2021, Oracle and/or its affiliates. All rights reserved.
