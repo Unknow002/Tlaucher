@@ -1,0 +1,10 @@
+{
+  "channel" : "release",
+  "customChannels" : [],
+  "deviceId" : 12366493830578859917,
+  "formatVersion" : 0,
+  "locale" : "vi-VN",
+  "productLibraryDir" : "C:\\Users\\DTM\\AppData\\Local\\Mojang\\products",
+  "useArm64JreIfSupported" : false,
+  "version" : 1
+}
